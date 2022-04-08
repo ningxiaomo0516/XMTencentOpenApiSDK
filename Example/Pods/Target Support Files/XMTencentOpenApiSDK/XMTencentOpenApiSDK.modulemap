@@ -1,0 +1,6 @@
+framework module XMTencentOpenApiSDK {
+  umbrella header "XMTencentOpenApiSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

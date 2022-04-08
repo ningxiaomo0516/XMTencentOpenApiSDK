@@ -1,0 +1,16 @@
+PODS:
+  - XMTencentOpenApiSDK (0.1.0)
+
+DEPENDENCIES:
+  - XMTencentOpenApiSDK (from `../`)
+
+EXTERNAL SOURCES:
+  XMTencentOpenApiSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XMTencentOpenApiSDK: 9d22a161f0876cd81ae72d68bab89dd228461310
+
+PODFILE CHECKSUM: efda5d1b17d897d6d9f22423ebb0906611134567
+
+COCOAPODS: 1.11.2

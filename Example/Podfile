@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'XMTencentOpenApiSDK_Example' do
+  pod 'XMTencentOpenApiSDK', :path => '../'
+
+  target 'XMTencentOpenApiSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
